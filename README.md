@@ -1,2 +1,3 @@
 # hello-world
 This is only initial stages of using GitHub so no descriptions as such... 
+    I am Into a Internship period. There i am designated as a Developer. Java is the language i picked. Backend Software Development is my primary area, i am also attending training sessions on web based applications.
